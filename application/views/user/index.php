@@ -39,22 +39,11 @@
         <div class="col-md-4">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Tahun 2004-2010</h5>
-                    <hr>
-                    <p class="card-text">SDN Mertak Paok</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <div class="card-body">
                     <h5 class="card-title">Tahun 2010-2013</h5>
                     <hr>
                     <p class="card-text">Mts Darul Habibi NW Praya</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
+                    <!-- <a href="#" class="card-link">Card link</a>
+                    <a href="#" class="card-link">Another link</a> -->
                 </div>
             </div>
         </div>
@@ -64,8 +53,19 @@
                     <h5 class="card-title">Tahun 2013-2016</h5>
                     <hr>
                     <p class="card-text">SMK Multimedia Darul Habibi NW Praya</p>
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
+                    <!-- <a href="#" class="card-link">Card link</a>
+                    <a href="#" class="card-link">Another link</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Tahun 2016-sekarang</h5>
+                    <hr>
+                    <p class="card-text">STMIK Akakom | Sistem Informasi</p>
+                    <!-- <a href="#" class="card-link">Card link</a>
+                    <a href="#" class="card-link">Another link</a> -->
                 </div>
             </div>
         </div>
